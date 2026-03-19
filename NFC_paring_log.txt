@@ -1,0 +1,194 @@
+
+# Sending Request: Tester -> 1D1B 22 ED A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Complete ECU Part/Serial Number(s)
+
+Tester -> 1D1B 22 ED A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Complete ECU Part/Serial Number(s)
+Complete Response: 1D1B 62 ED A0 F1 20 32 28 76 81 20 42 44 F1 2A 32 44 33 12 20 41 41 F1 2B 32 44 34 03 20 41 41 F1 8C 00 04 96 64 F1 2E 05 32 47 93 67 20 41 41 32 37 42 96 20 41 41 32 47 93 68 20 41 41 32 47 92 14 20 41 41 32 41 29 08 20 41 41
+Time stamp: 788638046
+Time between request and response(P2 time): 15 ms
+
+Application Diagnostic Database Part Number: 32 28 76 81  BD
+
+ECU Core Assembly Part Number: 32 44 33 12  AA
+
+ECU Delivery Assembly Part Number: 32 44 34 03  AA
+
+ECU Serial Number: 00 04 96 64
+
+Total number of ECU Software Part Numbers: 5
+LPC SWLM Part Number: 32 47 93 67  AA
+LPC SWE1 Part Number: 32 37 42 96  AA
+LPC SWP1 Part Number: 32 47 93 68  AA
+LPC SWP2 Part Number: 32 47 92 14  AA
+LPC SWM1 Network Map Part Number: 32 41 29 08  AA
+
+
+
+# Sending Request: Tester -> 1D1B 22 46 C2 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) Card Key Write Status
+
+Tester -> 1D1B 22 46 C2 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) Card Key Write Status
+Complete Response: 1D1B 7F 22 31
+Time stamp: 788675296
+Time between request and response(P2 time): 10 ms
+
+
+ERROR: requestOutOfRange
+
+
+# Sending Request: Tester -> 1D1B 10 03 :\ LPC_APP_32287681 BA \ Diagnostic Session Control \ ECU Extended Diagnostic Session
+
+Tester -> 1D1B 10 03 :\ LPC_APP_32287681 BA \ Diagnostic Session Control \ ECU Extended Diagnostic Session
+Complete Response: 1D1B 50 03 00 32 01 F4
+Time stamp: 789053156
+Time between request and response(P2 time): 16 ms
+
+
+
+# Sending Request: Tester -> 1D1B 27 11 00 01 00 01 A7 8E BA 4A 13 3B CF 47 64 AE 98 25 F2 48 A7 44 AE 53 01 29 31 70 93 67 AE 81 AB C0 94 B6 AC 00 0D 92 E6 CF 0A 37 35 8B 8B 7F D7 AB 49 83 F7 6E LPC
+
+Tester -> 1D1B 27 11 00 01 00 01 A7 8E BA 4A 13 3B CF 47 64 AE 98 25 F2 48 A7 44 AE 53 01 29 31 70 93 67 AE 81 AB C0 94 B6 AC 00 0D 92 E6 CF 0A 37 35 8B 8B 7F D7 AB 49 83 F7 6E LPC
+Complete Response: 1D1B 67 11 00 02 00 7B 69 6C 5C A7 A9 7C 30 9D 7A 2C 7F 27 F5 59 57 8B 2B 77 39 F4 61 C2 A8 3E 6B 51 FF DB E7 35 83 DE 76 67 3A 7A BA 36 3E 65 59 A7 23 99 08 41 6E 58 D3 6F B2 EB A0 32 A3 CA C4 88 3F 0D B4 24
+Time stamp: 789085984
+Time between request and response(P2 time): 23 ms
+
+
+
+# Sending Request: Tester -> 1D1B 27 12 00 03 8D 8B 03 E9 E8 59 75 DD 2F 46 0A 7E DD 84 F2 B9 99 E2 35 C9 75 80 CD B3 3E 82 FA 80 3E 06 D5 7C B1 9C 65 E9 72 31 9D A4 9E B7 58 B2 D7 CB 21 D7 LPC
+
+Tester -> 1D1B 27 12 00 03 8D 8B 03 E9 E8 59 75 DD 2F 46 0A 7E DD 84 F2 B9 99 E2 35 C9 75 80 CD B3 3E 82 FA 80 3E 06 D5 7C B1 9C 65 E9 72 31 9D A4 9E B7 58 B2 D7 CB 21 D7 LPC
+Complete Response: 1D1B 67 12
+Time stamp: 789088031
+Time between request and response(P2 time): 18 ms
+
+
+
+# Sending Request: Tester -> 1D1B 22 46 C2 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) Card Key Write Status
+
+Tester -> 1D1B 22 46 C2 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) Card Key Write Status
+Complete Response: 1D1B 62 46 C2 40
+Time stamp: 789097609
+Time between request and response(P2 time): 17 ms
+
+Root Car Key: 00 Production
+Back-up Key: 01 Default
+Root Transport Key: 00 Production
+
+
+
+# Sending Request: Tester -> 1D1B 22 EE 45 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ NFC Card Key Pairing Status
+
+Tester -> 1D1B 22 EE 45 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ NFC Card Key Pairing Status
+Complete Response: 1D1B 62 EE 45 00 00 00 00 00 00 00 00
+Time stamp: 789135343
+Time between request and response(P2 time): 14 ms
+
+
+
+It is not possible to continue with interpretation for rest of the response
+because the number of data parameters for PID "EE45" is incorrect in the response bytes.
+Please contact the responsible designer for this ECU and attach a log-file containing this error.
+
+
+# Sending Request: Tester -> 1D1B 22 46 A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) card UID list
+
+Tester -> 1D1B 22 46 A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) card UID list
+Complete Response: 1D1B 62 46 A0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Time stamp: 789549125
+Time between request and response(P2 time): 17 ms
+
+NFC Card 1 UID: 00
+NFC Card 2 UID: 00
+NFC Card 3 UID: 00
+NFC Card 4 UID: 00
+NFC Card 5 UID: 00
+NFC Card 6 UID: 00
+NFC Card 7 UID: 00
+NFC Card 8 UID: 00
+
+
+
+# Sending Request: Tester -> 1D1B 2E 46 A2 D3 07 37 80 6F 75 F4 48 AB 8E 14 ED 43 4E CE 96 :\ LPC_APP_32287681 BA \ Write data by identifier \ Near Field Communication (NFC) card back-up key \ Data Record
+
+Tester -> 1D1B 2E 46 A2 D3 07 37 80 6F 75 F4 48 AB 8E 14 ED 43 4E CE 96 :\ LPC_APP_32287681 BA \ Write data by identifier \ Near Field Communication (NFC) card back-up key \ Data Record
+Complete Response: 1D1B 6E 46 A2
+Time stamp: 789777093
+Time between request and response(P2 time): 18 ms
+
+
+
+# Sending Request: Tester -> 1D1B 22 46 C2 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) Card Key Write Status
+
+Tester -> 1D1B 22 46 C2 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) Card Key Write Status
+Complete Response: 1D1B 62 46 C2 00
+Time stamp: 789786265
+Time between request and response(P2 time): 16 ms
+
+Root Car Key: 00 Production
+Back-up Key: 00 Production
+Root Transport Key: 00 Production
+
+
+
+# Sending Request: Tester -> 1D1B 31 01 21 0A :\ LPC_APP_32287681 BA \ Routine Control \ Start Routine
+
+Tester -> 1D1B 31 01 21 0A :\ LPC_APP_32287681 BA \ Routine Control \ Start Routine
+Complete Response: 1D1B 71 01 21 0A 20
+Time stamp: 790002890
+Time between request and response(P2 time): 17 ms
+
+Invalid response item array.
+
+# Sending Request: Tester -> 1D1B 22 46 A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) card UID list
+
+Tester -> 1D1B 22 46 A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) card UID list
+Complete Response: 1D1B 7F 22 31
+Time stamp: 790327000
+Time between request and response(P2 time): 18 ms
+
+
+ERROR: requestOutOfRange
+
+
+# Sending Request: Tester -> 1D1B 10 03 :\ LPC_APP_32287681 BA \ Diagnostic Session Control \ ECU Extended Diagnostic Session
+
+Tester -> 1D1B 10 03 :\ LPC_APP_32287681 BA \ Diagnostic Session Control \ ECU Extended Diagnostic Session
+Complete Response: 1D1B 50 03 00 32 01 F4
+Time stamp: 790342015
+Time between request and response(P2 time): 11 ms
+
+
+
+# Sending Request: Tester -> 1D1B 27 11 00 01 00 01 B0 52 29 58 C2 54 FF B0 37 59 17 BA 06 F5 AF 47 B0 B6 21 A9 C3 AE 13 64 C8 1E 9A 55 5F 85 4D 85 97 9F B4 CF 55 14 35 AD C1 BC 8D 00 0C FE F6 E9 LPC
+
+Tester -> 1D1B 27 11 00 01 00 01 B0 52 29 58 C2 54 FF B0 37 59 17 BA 06 F5 AF 47 B0 B6 21 A9 C3 AE 13 64 C8 1E 9A 55 5F 85 4D 85 97 9F B4 CF 55 14 35 AD C1 BC 8D 00 0C FE F6 E9 LPC
+Complete Response: 1D1B 67 11 00 02 F8 55 F1 C4 F9 D0 DC 27 C2 5C 77 4C 60 77 60 7C 58 F2 FC 2E 8B 02 8B B0 68 C5 DF D9 D1 B5 25 7E 63 AD F7 9E 11 0E D4 D8 3A AE 40 13 78 31 1E CC EF 2E 86 46 13 68 88 DC B8 A2 CF 69 D8 0D AA C2
+Time stamp: 790384296
+Time between request and response(P2 time): 20 ms
+
+
+
+# Sending Request: Tester -> 1D1B 27 12 00 03 D0 7E B4 EC EF E7 E6 2C 15 E5 E6 01 26 0C E8 F9 6B F4 17 B4 DB 1C 6C 22 83 7E 8F 74 E1 97 DF 62 BC 9F D0 05 E2 FE B5 33 D6 DD 71 D9 31 0B 6B A0 LPC
+
+Tester -> 1D1B 27 12 00 03 D0 7E B4 EC EF E7 E6 2C 15 E5 E6 01 26 0C E8 F9 6B F4 17 B4 DB 1C 6C 22 83 7E 8F 74 E1 97 DF 62 BC 9F D0 05 E2 FE B5 33 D6 DD 71 D9 31 0B 6B A0 LPC
+Complete Response: 1D1B 67 12
+Time stamp: 790386359
+Time between request and response(P2 time): 19 ms
+
+
+
+# Sending Request: Tester -> 1D1B 22 46 A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) card UID list
+
+Tester -> 1D1B 22 46 A0 :\ LPC_APP_32287681 BA \ Read Data By Identifier \ Near Field Communication (NFC) card UID list
+Complete Response: 1D1B 62 46 A0 04 9E 6E FA 04 19 90 04 B2 74 FA 04 19 90 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Time stamp: 790393953
+Time between request and response(P2 time): 20 ms
+
+NFC Card 1 UID: 04 9E 6E FA 04 19 90
+NFC Card 2 UID: 04 B2 74 FA 04 19 90
+NFC Card 3 UID: 00
+NFC Card 4 UID: 00
+NFC Card 5 UID: 00
+NFC Card 6 UID: 00
+NFC Card 7 UID: 00
+NFC Card 8 UID: 00
+
+
